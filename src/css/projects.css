@@ -1,0 +1,215 @@
+/* Sets the text Globally*/
+
+* {
+  font-family: cursive, sans-serif;
+}
+
+/* Defines the background color */
+body
+{
+  background-color: rgb(218, 212, 236);
+}
+
+.content{
+  margin-left:50px;
+}
+
+
+/* Unique Styles for h1-h6 */
+
+h1{
+  display:flex;
+}
+
+h2{
+
+margin-left:1.5px;
+margin-right:50px;
+float: left;
+margin-top: 10px;
+justify-content: space-evenly;
+border-style: solid;
+border-left: 0px;
+border-color: rgb(47, 47, 119);
+border-width: 3px;
+font-size: 50px;
+margin-right:50px;
+}
+
+h3{
+margin-left: 84px;
+margin-right:50px;
+float: left;
+margin-top: 95px;
+border-style: solid;
+border-left: 10px;
+border-color: rgb(47, 47, 119);
+border-width: 3px;
+
+
+}
+
+h4{
+margin-left: 65px;
+margin-right:50px;
+float: left;
+padding-top: 0px;
+border-style: solid;
+border-left: 10px;
+border-color: rgb(47, 47, 119);
+border-width: 3px;
+
+
+}
+
+h5{
+padding-top:20px;
+margin-left: 47px;
+margin-right:50px;
+float: left;
+
+}
+
+h6{
+margin-left:80%;
+
+
+margin-top: 10px;
+}
+
+.border {
+border-style: groove;
+border-right: 10px;
+border-color: blue;
+border-width: 10px;
+}
+/* Contains the style for the header section containing the NAV links*/
+
+header{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1%;
+  background-color: rgb(218, 212, 236);
+}
+
+.Name{
+  color: rgb(58, 84, 133); 
+}
+
+
+/* Defines .card sections */
+
+.marge{
+margin-left:20px;
+}
+
+
+
+.h1card {
+  border-width: 1px;
+  padding-left: 0px;
+  padding-right: 25px;
+  margin: 14px;
+  color: rgb(42, 87, 170);
+}
+
+nav{
+text-align: center;
+
+}
+
+p{
+display:flex;
+align-items: flex-end;
+flex-direction: row;
+flex-wrap: wrap;
+padding:20px;
+}
+
+article{
+margin-left:50px
+}
+
+/* This section defines the .rows that are called for in each <article> */
+
+.row {
+  display:inline;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding-left: 0px;
+  
+}
+
+.wrow {
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding-left: 0px;
+  align-content: center;
+}
+
+.frow {
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding-left: 20px;
+  text-align:center;
+  margin:10px;
+  
+}
+
+.Rrow {
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding-left: 20px;
+  text-align:center;
+  margin-top:50px;
+  align-items: baseline;
+  
+}
+
+li{
+    display:inline;
+    justify-content: center;
+    
+}
+
+img{
+  padding: 10px;
+  
+
+}
+
+a {
+  transition: background-color .5s;
+}
+
+a:hover {
+  background-color: rgb(47, 47, 119);
+}
+
+.grow {
+  margin-left:37.9%;
+  transition: all 3s ease-in-out;
+}
+
+.grow:hover {
+ 
+  transform: rotate(1080deg);
+}
+
+.grow:active{
+  transform: scale(4);
+}
+
+@media screen and (max-width: 768px) {
+header {
+  flex-direction: column;
+}
+
+main {
+  max-width: 1200px;
+}
+}
