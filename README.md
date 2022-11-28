@@ -11,11 +11,6 @@
   * [Contributing](#contributing)
   * [Questions](#questions)
   
-<img src="./assets/images/grind.PNG">
-<img src="./assets/images/cocktail.PNG">
-<img src="./assets/images/workout.PNG">
-<img src="./assets/images/home.PNG">
-
 
   ## How does one install this application? 
   There will be no installation for this.  Simply navigate to https://tjex07.github.io/ReactPortfolio/.
