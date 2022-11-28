@@ -3,7 +3,8 @@
   ## https://opensource.org/licenses/
   
   ## Description 
-  API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+  This page is a portfolio based on my work. The code herein is generated using React, CSS, and JavaScript. Project information is loaded into an object that opmitizes my ability to update content.  I have a lot to learn and a ways to go to improve this starting page and will continue to update and improve!
+
   ## Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
