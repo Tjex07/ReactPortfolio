@@ -72,7 +72,8 @@ You’ll use `create-react-app` to build your portfolio, which will include the 
 
 For each project that is featured in your portfolio, include the following:
 
-* An image of the deployed application (either a short animated GIF or screenshot)
+* 
+
 
 * The title of the project
 
