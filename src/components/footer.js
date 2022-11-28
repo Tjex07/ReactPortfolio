@@ -5,7 +5,7 @@ function Footer() {
     return (
     <div id="footer">
         <h3>find me at</h3>
-        <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/trevor-jex-aa703b82/" target="_blank" class="footerContact">
+        <a href="https://www.linkedin.com/in/trevor-jex-aa703b82/" target="_blank" class="footerContact">
         <i class="fab fa-linkedin"></i>
         <h5>Trevor Jex @ linkedin</h5>
         </a>
