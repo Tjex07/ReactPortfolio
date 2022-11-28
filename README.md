@@ -11,10 +11,10 @@
   * [Contributing](#contributing)
   * [Questions](#questions)
   
-<img src="./src/images/grind.PNG">
-<img src="./src/images/cocktail.PNG">
-<img src="./src/images/workout.PNG">
-<img src="./src/images/home.PNG">
+<img src="./assets/images/grind.PNG">
+<img src="./assets/images/cocktail.PNG">
+<img src="./assets/images/workout.PNG">
+<img src="./assets/images/home.PNG">
 
 
   ## How does one install this application? 
